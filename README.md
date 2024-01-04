@@ -1,2 +1,2 @@
 # timer
- Código de um display da hora exata (a.k.a relógio)
+ Código baseado em criar variáveis que pegam o horário exato e se concatenam em uma string só, sendo atualizado a cada segundo
